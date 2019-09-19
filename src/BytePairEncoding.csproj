@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>LostTech.TextProcessing.BytePairEncoding</AssemblyName>
+    <RootNamespace>LostTech.TextProcessing</RootNamespace>
+    <Nullable>enable</Nullable>
+    <LangVersion>8</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="morelinq" Version="3.2.0" />
+  </ItemGroup>
+
+</Project>
